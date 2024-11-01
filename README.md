@@ -6,13 +6,34 @@ I'm a software developer and machine learning enthusiast, constantly exploring t
 ---
 
 ## 🧑‍💻 About Me
+## 💻 Skills
+### Programming Languages
+- **Python**: Proficient in scripting, data analysis, and building scalable applications using functional and OOP principles. Skilled in handling data structures, error handling, and automated testing.
+- **SQL**: Experienced in relational database management, writing optimized queries, and handling complex joins, subqueries, and transactions.
+- **JavaScript**: Knowledgeable in DOM manipulation, asynchronous operations (AJAX, Fetch API), and building interactive web applications.
 
-- 💻 **Coding Languages**: Python, SQL, JavaScript
-- 🧠 **Frameworks & Libraries**: Django, PyTorch, Scikit-Learn, Pandas, Numpy
-- 🗄️ **Database Management**: MySQL, PostgreSQL
-- 🛠 **Tools & Platforms**: Git, GitHub, Jupyter Notebooks, Visual Studio Code, Docker
+### Frameworks & Libraries
+- **Django**: Strong understanding of web frameworks and RESTful API development, with experience in creating robust and scalable applications.
+- **React**: Proficient in building dynamic and interactive user interfaces with a component-based architecture, state management using hooks, and integrating with RESTful APIs.
+- **jQuery**: Experienced in simplifying HTML document traversing, event handling, and Ajax interactions for rapid web development.
+- **PyTorch**: Skilled in developing deep learning models for image recognition and data analysis, with a focus on neural network architectures.
+- **Scikit-Learn**: Proficient in machine learning algorithms, model evaluation, and feature engineering for predictive modeling.
+- **Pandas**: Experienced in data manipulation, cleaning, and analysis with an emphasis on time-series data and data visualization.
+- **Numpy**: Familiar with numerical computing and handling multi-dimensional arrays for scientific computing.
 
-I believe in **clean code**, **efficient data management**, and **continuous learning**. When I'm not coding, you might find me exploring new tech articles, experimenting with creative projects, or gaming with friends!
+### Database Management
+- **MySQL**: Skilled in designing and managing relational databases, writing complex queries, and ensuring data integrity.
+- **PostgreSQL**: Knowledgeable in advanced database functionalities like indexing, stored procedures, and performance tuning.
+- **MongoDB**: Proficient in using this NoSQL database for managing unstructured data, designing flexible schemas, and performing complex queries.
+
+### Tools & Platforms
+- **Git**: Proficient in version control, branching strategies, and collaboration workflows to manage code changes effectively.
+- **GitHub**: Experienced in using GitHub for repository management, pull requests, and contributions to open-source projects.
+- **Jupyter Notebooks**: Familiar with interactive computing and data visualization, making data analysis and sharing results easier.
+- **Visual Studio Code**: Proficient in using this IDE for various programming tasks, including web development and data science projects.
+- **Docker**: Knowledgeable in containerization, enabling consistent environments for development and deployment.
+
+---
 
 ---
 
