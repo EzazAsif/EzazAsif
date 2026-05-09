@@ -100,11 +100,18 @@ me.say_hi()
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzazAsif&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzazAsif&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=EzazAsif&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzazAsif&theme=tokyonight" 
+    width="100%"
+  />
+</p>
 ---
 
 # 🔥 GitHub Streak
