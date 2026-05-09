@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi 👋, I'm Mohammad Ishzaz Asif Rafid Ezaz
-</h1>
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=EzazAsif&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <h3 align="center">
 🚀 Full Stack & AI Engineer | Django Specialist | MERN Developer | AI Enthusiast
