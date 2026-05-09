@@ -1,10 +1,15 @@
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=EzazAsif&theme=tokyo-night&hide_border=true"/>
-</p>
 
-<h3 align="center">
-🚀 Full Stack & AI Engineer | Django Specialist | MERN Developer | AI Enthusiast
-</h3>
+<h1 align="center" style="
+  color: #0ff;
+  text-shadow: 
+    0 0 5px #0ff,
+    0 0 10px #0ff,
+    0 0 20px #0ff,
+    0 0 40px #0ff,
+    0 0 80px #0ff;">
+  Hi 👋, I'm Mohammad Ishzaz Asif Rafid Ezaz
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Django+%7C+MERN+Specialist;Machine+Learning+Engineer;Building+Scalable+Systems;Docker+%7C+WebSockets+%7C+Celery;Always+Learning+New+Technologies" />
@@ -105,6 +110,9 @@ me.say_hi()
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzazAsif&theme=tokyonight" 
     width="100%"
   />
+</p>
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=EzazAsif&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
 
