@@ -7,7 +7,7 @@
     0 0 20px #0ff,
     0 0 40px #0ff,
     0 0 80px #0ff;">
-  Hi 👋, I'm Mohammad Ishzaz Asif Rafid Ezaz
+  Hi 👋, I'm Mohammad Ishzaz Asif Rafid
 </h1>
 
 
