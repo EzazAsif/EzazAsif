@@ -99,12 +99,6 @@ me.say_hi()
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=EzazAsif&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
-</p>
 
 <p align="center">
   <img 
